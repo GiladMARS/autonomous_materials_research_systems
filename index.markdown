@@ -21,7 +21,7 @@ Real world successes: discovery of new materials in rare-earth free permanent ma
 
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/basic%20phase%20mapping.gif" align="right" style="height: 100px"/>
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/basic%20phase%20mapping.gif" align="right" style="height: 50%"/>
 
 ### Autonomous Phase Mapping and Materials Optimization
 The structure of a material greatly influences its properties. Thus the search for better materials must often include knowledge of the relationship between how a material is made and the resulting structure, i.e. "phase mapping".  
