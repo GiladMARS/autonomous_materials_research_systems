@@ -40,7 +40,8 @@ We are investigating the use of ML to guide microscopy and other measurement sys
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/picture1c-510x516.png" align="right" height="180" />
+<a href="">
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/picture1c-510x516.png" align="right" height="180" /> </a>
 
 ### Autonomous Protein Engineering
 The complexity of biological systems is incredible. We are combining ML and robotics to build a greater understanding of protein engineering.
@@ -51,7 +52,8 @@ The complexity of biological systems is incredible. We are combining ML and robo
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/41524_2018_85_Fig4_HTML.jpg" align="right" height= "180" />
+<a href="https://www.nature.com/articles/s41524-018-0085-8 ">
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/41524_2018_85_Fig4_HTML.jpg" align="right" height= "180" /> </a>
 
 ### ML for Accelerating Materials Research
 We use ML to learn about important materials (e.g. superconductors) and guide research in the lab. e.g. https://www.nature.com/articles/s41524-018-0085-8 
@@ -72,7 +74,8 @@ MLMR 2020 180 attendees joined us from 12 countries, 30% from industry.  Over th
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/Image%20of%20REMI.png" align="right" height= "200px" />
+<a href="">
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/Image%20of%20REMI.png" align="right" height= "200px" /> </a>
 
 ### REMI: REsource for Materials Informatics
 A repository for tutorials and code examples covering materials data import/export, pre-processing, and analysis. Search by material system, synthesis / simulation method, measurement method, data type, data analysis type, and more.
