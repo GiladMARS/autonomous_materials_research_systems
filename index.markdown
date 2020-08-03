@@ -30,7 +30,7 @@ Autonomous phase mapping at the Stanford Linear Accelerator has allowed us to re
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/wafer-xray-reflection-510x348.png" align="right" style="height: 180px"/>
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/wafer-xray-reflection-510x348.png" align="right" height= "180" />
 
 ### Autonomous Metrology
 We are investigating the use of ML to guide microscopy and other measurement systems to accelerate knowledge capture.  
@@ -40,7 +40,7 @@ We are investigating the use of ML to guide microscopy and other measurement sys
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/picture1c-510x516.png" align="right" style="height: 180px"/>
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/picture1c-510x516.png" align="right" height="180" />
 
 ### Autonomous Protein Engineering
 The complexity of biological systems is incredible. We are combining ML and robotics to build a greater understanding of protein engineering.
@@ -51,7 +51,7 @@ The complexity of biological systems is incredible. We are combining ML and robo
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/41524_2018_85_Fig4_HTML.jpg" align="right" style="height: 180px"/>
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/41524_2018_85_Fig4_HTML.jpg" align="right" height= "180" />
 
 ### ML for Accelerating Materials Research
 We use ML to learn about important materials (e.g. superconductors) and guide research in the lab. e.g. https://www.nature.com/articles/s41524-018-0085-8 
@@ -61,7 +61,7 @@ We use ML to learn about important materials (e.g. superconductors) and guide re
 <br/>
 * * *
 <br/>
-[<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/dsc-299-510x339.jpg" align="right" style="height: 180px"/>](https://www.nanocenter.umd.edu/events/mlmr-2020/)
+[<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/dsc-299-510x339.jpg" align="right" height= "180" />](https://www.nanocenter.umd.edu/events/mlmr-2020/)
 
 ### [Bootcamp: Machine Learning for Materials Research](https://www.nanocenter.umd.edu/events/mlmr-2020/)
 Educating the next generation of physicists and materials scientists.  
@@ -71,7 +71,7 @@ MLMR 2020 180 attendees joined us from 12 countries, 30% from industry.  Over th
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/Image%20of%20REMI.png" align="right" style="height: 200px"/>
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/Image%20of%20REMI.png" align="right" height= "200px" />
 
 ### REMI: REsource for Materials Informatics
 A repository for tutorials and code examples covering materials data import/export, pre-processing, and analysis. Search by material system, synthesis / simulation method, measurement method, data type, data analysis type, and more.
