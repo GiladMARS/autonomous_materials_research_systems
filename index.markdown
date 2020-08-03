@@ -71,10 +71,12 @@ MLMR 2020 180 attendees joined us from 12 countries, 30% from industry.  Over th
 <br/>
 * * *
 <br/>
-<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/Image%20of%20REMI.png" align="right" height= "200px" />
+<a href="https://www.nanocenter.umd.edu/events/mlmr-2020/">
+<img src="https://github.com/GiladMARS/autonomous_materials_research_systems/raw/master/images/Image%20of%20REMI.png" align="right" height= "200px" /> </a>
 
 ### REMI: REsource for Materials Informatics
 A repository for tutorials and code examples covering materials data import/export, pre-processing, and analysis. Search by material system, synthesis / simulation method, measurement method, data type, data analysis type, and more.
+<br/>
 <br/>
 <br/>
 <br/>
