@@ -16,6 +16,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+baseurl: "/autonomous_materials_research_systems"
 
 # Build settings
 theme: jekyll-theme-cayman
