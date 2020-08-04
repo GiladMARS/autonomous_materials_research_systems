@@ -43,7 +43,7 @@ We are investigating the use of ML to guide microscopy and other measurement sys
 The complexity of biological systems is incredible. We are combining ML and robotics to build a greater understanding of protein engineering.  
 [https://arxiv.org/abs/1911.02106, ](https://arxiv.org/pdf/1911.02106.pdf)
 [https://doi.org/10.1101/2020.03.05.979385, ](https://www.biorxiv.org/content/10.1101/2020.03.05.979385v1.full.pdf)
-[https://doi.org/10.1101/2020.07.10.197574, ](https://www.biorxiv.org/content/10.1101/2020.07.10.197574v1.full.pdf)
+[https://doi.org/10.1101/2020.07.10.197574](https://www.biorxiv.org/content/10.1101/2020.07.10.197574v1.full.pdf)
 <br/>
 <br/>
 <br/>
