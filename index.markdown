@@ -108,7 +108,7 @@ NRC Postdoc, Machine Learning + Materials Science
 Current: Research Scientist, NIST
 
 ### Graham Antoszewski
-UMD Masters in Applied Math
+UMD Masters in Applied Math  
 Current: BlackSky
 <br/>
 * * * 
