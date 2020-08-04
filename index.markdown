@@ -92,9 +92,11 @@ A repository for tutorials and code examples covering materials data import/expo
 ### Peter Tonner
 Machine Learning + Genetics  
 NIST NRC Postdoc
+
 ### Austin McDannald
 Machine Learning + Materials Science  
 NIST Postdoc
+
 ### Amit Verma
 Machine Learning + Materials Science  
 CMU Postdoc
@@ -104,6 +106,10 @@ CMU Postdoc
 ### Brian DeCost
 NRC Postdoc, Machine Learning + Materials Science  
 Current: Research Scientist, NIST
+
+### Graham Antoszewski
+UMD Masters in Applied Math
+Current: BlackSky
 <br/>
 * * * 
 
